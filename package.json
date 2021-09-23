@@ -1,0 +1,24 @@
+{
+  "name": "bookstore-express",
+  "version": "1.0.0",
+  "description": "A Bookstore API with Express and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oreoluwade/bookstore-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oreoluwade/bookstore-express/issues"
+  },
+  "homepage": "https://github.com/oreoluwade/bookstore-express#readme",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.6.0"
+  }
+}
